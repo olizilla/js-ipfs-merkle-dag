@@ -43,10 +43,10 @@
     "protocol-buffers": "^3.1.6",
     "pull-stream": "^3.4.5",
     "pull-traverse": "^1.0.3",
-    "stable": "^0.1.5"
+    "stable": "^0.1.5",
+    "aegir": "^8.0.1"
   },
   "devDependencies": {
-    "aegir": "^8.0.1",
     "bs58": "^3.0.0",
     "buffer-loader": "0.0.1",
     "chai": "^3.5.0",
